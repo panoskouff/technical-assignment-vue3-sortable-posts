@@ -4,8 +4,6 @@ A sortable posts application with vue 3 and vite.
 
 ## Table of Contents
 
-- [SPA with vite](#spa-with-vite)
-  - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Development](#development)
   - [Build](#build)
