@@ -1,0 +1,1 @@
+export { adaptPosts } from './adaptPosts';
