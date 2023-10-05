@@ -1,6 +1,8 @@
 # SPA with vite
 
-A sortable posts application with vue 3 and vite.
+A sortable posts application with vue 3 and vite.  
+  
+<img width="1147" alt="image" src="https://github.com/panoskouff/technical-assignment-vue3-sortable-posts/assets/107889674/9f93b570-5129-49e4-b19f-aa5cde66a714">  
 
 ## Table of Contents
 
