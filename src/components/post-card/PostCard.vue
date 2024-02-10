@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import { SwapPostInjectKey } from '@/components/posts-explorer/injections';
-import { computed, inject } from 'vue';
-import { Space } from '@/atoms';
-import ArrowIcon from '@/components/arrow-icon/ArrowIcon.vue';
+import { SwapPostInjectKey } from "@/components/posts-explorer/injections";
+import { computed, inject } from "vue";
+import { Space } from "@/atoms";
+import ArrowIcon from "@/components/arrow-icon/ArrowIcon.vue";
 
 export type PostCardBaseProps = {
   cellTitle: string;
@@ -44,8 +44,8 @@ const isFirst = computed(() => props.index === 0);
 </template>
 
 <style lang="scss" module>
-@import '@/styles/mixins.scss';
-@import '@/styles/breakpoints.scss';
+@import "@/styles/mixins.scss";
+@import "@/styles/breakpoints.scss";
 
 .container {
   background: var(--bg-color-tertiary);
